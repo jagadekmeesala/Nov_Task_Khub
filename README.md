@@ -1,6 +1,6 @@
 # Nov_Task_Khub
 
-Project title - 'Project store'
+Title - 'Project store'
 
 Table of Contents
 - Procedure
