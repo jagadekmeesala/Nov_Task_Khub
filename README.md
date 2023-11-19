@@ -19,24 +19,19 @@ First and foremost thing is to create 2 folders named *Frontend* and *Backend*
 The folder structure is as follows
 
 ```
-├── docs
-│   ├── images
-│   ├── help documents...
-├── frontend 
+├── frontend
 │   ├── src
 │   │   ├── assests
 │   │   ├── components
 │   │   │   ├── component_name
 │   │   │   │   ├── **/*.css
 │   │   │   │   ├── **/*.js
-│   │   ├── pages
-│   │   │   ├── page_name
-│   │   │   │   ├── **/*.css
-│   │   │   │   ├── **/*.js
-├── backend
+│   │   │   ├── App.js
+│   │   │   ├── App.css
 ├── README.md
 └── .gitignore
 ```
+
 
 ## Installations
 Initially navigate to the frontend folder and open the terminal using ``` ctrl + shift + ` ``` in vs code or click on new terminal
@@ -48,6 +43,7 @@ The necessary files and node modules will be installed.
    - React router dom
    - MUI
 
+
 ## Frontend
 Intially we have set up the folder structure as per the requirements
 Then we have edited the components folder and have created Navbar, Footer, About, Analytics, Contact, Projects, Searchbar, sidebar folders 
@@ -57,6 +53,8 @@ All the components have js and css
 
 We run the frontend part using the command ``` npm start ``` 
 
+
+
 ## Codes
 
    ### App.js
@@ -64,6 +62,8 @@ We run the frontend part using the command ``` npm start ```
 
    ### Navbar.js
    ![Navbar](https://github.com/jagadekmeesala/Nov_Task_Khub/assets/85881386/150da5ae-e8d7-4716-b607-da55631801cb)
+
+
 
 ## Outputs
 
@@ -85,6 +85,7 @@ We run the frontend part using the command ``` npm start ```
 
 ## Conclusion
 This website is to understand the functionality of Searchbar and Sidebar which includes different components that we use. The Components are Cards, Piecharts, Form, Date & Day index, Table.
+
 
 *Senior Developer* - Jagadek Meesala
 *Junior Devloper* - Benayaram Rekha
