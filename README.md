@@ -1,8 +1,6 @@
 # Nov_Task_Khub
 
- # KHub_Practice_React_app
-
-Project title - K-Hub Practice React App
+Project title - 'Project store'
 
 Table of Contents
 - Procedure
