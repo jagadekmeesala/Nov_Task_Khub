@@ -9,9 +9,6 @@ Table of Contents
 - Installations
 - Frontend
    - React Js
-- Backend
-   - Database
-   - Dataset
 - Conclusion
 
  ## Procedure
