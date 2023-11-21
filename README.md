@@ -37,6 +37,10 @@ The necessary files and node modules will be installed.
    ### Frontned Installations
    - React router dom
    - MUI
+   - Emotions
+     
+     ![Installations](https://github.com/RCTS-K-Hub/Nov_Team_01/assets/85881386/8ffe823b-2863-4681-8834-467aea2470ec)
+
 
 
 ## Frontend
@@ -62,6 +66,9 @@ We run the frontend part using the command ``` npm start ```
 
 ## Outputs
 
+   ### Home Page
+   ![Screenshot (187)](https://github.com/RCTS-K-Hub/Nov_Team_01/assets/85881386/59eb6389-4fa0-412d-9fa9-4bb89d866956)
+
    ### Cards and Searchbar
    ![Cards and Search bar](https://github.com/jagadekmeesala/Nov_Task_Khub/assets/85881386/fb3a6e95-da1c-469b-a9ac-a11db810a5f1)
 
@@ -82,5 +89,5 @@ We run the frontend part using the command ``` npm start ```
 This website is to understand the functionality of Searchbar and Sidebar which includes different components that we use. The Components are Cards, Piecharts, Form, Date & Day index, Table.
 
 
-*Senior Developer* - Jagadek Meesala
-*Junior Devloper* - Benayaram Rekha
+#### *Senior Developer* - Jagadek Meesala
+#### *Junior Devloper* - Benayaram Rekha
